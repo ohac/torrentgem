@@ -13,7 +13,7 @@ Use
 
 Preparing
 
-    $ torrentgem init {Your-Twitter-ID}
+    $ torrentgem -i {Your-Twitter-ID}
     $ cd
     $ ls
     TorrentGem.yourid
