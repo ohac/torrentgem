@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "torrentgem"
   gem.homepage = "http://github.com/ohac/torrentgem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Social folder sharing/backup tool which using BitTorrent.}
+  gem.description = %Q{Social folder sharing/backup tool which using BitTorrent.}
   gem.email = "ohachige@gmail.com"
   gem.authors = ["OHASHI Hideya"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
